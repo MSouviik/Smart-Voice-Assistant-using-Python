@@ -1,0 +1,12 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+pywhatkit
+playsound==1.2.2
+pyaudio
+pyjokes
+psutil
+requests
+pyautogui
+better-profanity
+edge_tts
