@@ -1,4 +1,4 @@
-# 🤖 Gibli – Your Smart Voice Assistant (2025 Edition)
+# 🤖 Gibli – Your Smart Voice Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-lightgrey)
@@ -79,7 +79,7 @@ pyinstaller --noconsole --onefile assistant_gui.py ^
  --add-data "assets;assets" ^
  --add-data "venv\Lib\site-packages\better_profanity\alphabetic_unicode.json;better_profanity"
 
-🛠️ Alternate Packaging Command (if above fails)
+# 🛠 Alternate Packaging Command (if above fails)
 
 pyinstaller --noconsole --onefile assistant_gui.py ^
  --add-data="assets:assets" ^
