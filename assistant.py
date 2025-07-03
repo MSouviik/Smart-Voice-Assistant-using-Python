@@ -327,7 +327,7 @@ def main(log_fn=None):
 
         elif 'send whatsapp message' in query:
             speak("Sending a test WhatsApp message.", log_fn)
-            pywhatkit.sendwhatmsg("+919674656298", "Hello from Gibli!", datetime.datetime.now().hour, datetime.datetime.now().minute + 2)
+            pywhatkit.sendwhatmsg("+xxxxxxxxx", "Hello from Gibli!", datetime.datetime.now().hour, datetime.datetime.now().minute + 2)
 
         elif 'time' in query:
             current_time = datetime.datetime.now().strftime("%I:%M %p")
