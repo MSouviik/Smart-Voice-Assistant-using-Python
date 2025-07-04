@@ -100,7 +100,7 @@ pyinstaller --noconsole --onefile assistant_gui.py ^
 
 ## 🙌 Acknowledgements
 
-Made with ❤️ using **Python 3.12**
+Made using **Python 3.12** ❤
 
 Big thanks to the open-source community and the libraries that power **Gibli**:
 
