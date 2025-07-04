@@ -129,3 +129,12 @@ Big thanks to the open-source community and the libraries that power **Gibli**:
 
 📫 **Want to contribute or give feedback?**  
 Fork this project, ⭐ star it, and send a pull request!
+
+---
+
+## 👨‍💻 Developer
+
+Built with ☕ and ❤️ by [@MSouviik](https://github.com/MSouviik)  
+
+Pull requests are welcome!  
+**Fork it, build it, break it, fix it.**
